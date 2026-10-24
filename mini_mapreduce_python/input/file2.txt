@@ -1,0 +1,1 @@
+MapReduce processes data. Python processes data.
